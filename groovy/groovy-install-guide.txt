@@ -1,0 +1,4 @@
+网址：http://download.csdn.net/detail/u011692041/9653288
+选择最后的一个windowsinstaller
+验证：像java一样 cmd ->groovy
+使用：双击groovy console
